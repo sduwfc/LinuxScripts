@@ -83,7 +83,6 @@ return {
       end,
     },
   },
-
   -- add pyright to lspconfig
   {
     "neovim/nvim-lspconfig",
